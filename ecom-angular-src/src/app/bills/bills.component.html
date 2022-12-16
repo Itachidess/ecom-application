@@ -1,0 +1,21 @@
+<div class="container">
+  <table class="table" *ngIf="bills">
+    <thead>
+    <tr>
+      <th>Customer ID</th><th>Date</th><th>customer</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let b of bills._embedded.bills">
+
+      <td>{{b.customerId}}</td>
+      <td>{{b.billDate}}</td>
+
+      <td>{{b.customer}}</td>
+
+
+    </tr>
+    </tbody>
+  </table>
+
+</div>
