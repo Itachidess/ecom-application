@@ -38,6 +38,6 @@
     <h3>Angular Clients<h3>
     <img src="screens/img_27.PNG">
     <h3>Angular Produits<h3>
-    <img src="screens/img_28">
+    <img src="screens/img_28.PNG">
     <h3>Angular Factures<h3>
-    <img src="screens/img_29">
+    <img src="screens/img_29.PNG">
