@@ -2,7 +2,7 @@
 <img src="screens/img.png">
 <img src="screens/img_2.png">
 <img src="screens/img_3.png">
-<h2>1.Créer le micro-service customer-service qui permet de gérer les client</h2>
+<h2>.Créer le micro-service inventory-service qui permet de gérer les produits</h2>
 <img src="screens/img_16.png">
 <h2>3. Créer la Gateway Spring cloud Gateway</h2>
 <p>Ici on retrouve le port de la Gateway 9999</p>
